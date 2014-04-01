@@ -1,0 +1,2 @@
+Blue가 너무 어둡게 표시된다.
+  => Configuration->Window->Colours->Ansi Blue : 0,0,187 --> 70,110,230 으로 변경
