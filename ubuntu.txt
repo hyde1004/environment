@@ -1,0 +1,4 @@
+ssh 접속 속도 빠르게 하기
+    sudo vi /etc/ssh/sshd_config
+    파일내용에 UseDNS no 추가
+    sudo service ssh restart
