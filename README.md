@@ -2,7 +2,7 @@
  - spacesniffer (HDD 정리)
  - spy++
  - logcatfilter
- - sqlitebrowser
+ - [sqlitebrowser](http://sqlitebrowser.org/) : Android 내 DB 보기
  
 #### TS 분석기
  - [DVBinspector](http://www.digitalekabeltelevisie.nl/dvb_inspector/)
